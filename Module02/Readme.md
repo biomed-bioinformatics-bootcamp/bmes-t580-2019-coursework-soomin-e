@@ -31,6 +31,7 @@
   - Place the screenshot in this Readme.md file so it properly displays.
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
 3. Add a link to the repo to BBLearn as your "Assignment".
+![Primer Game Screenshot](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module02/GuessPrimerGame.png?raw=true)
 
 ### Guess A Primer
 
