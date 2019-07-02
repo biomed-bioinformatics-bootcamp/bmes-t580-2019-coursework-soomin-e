@@ -43,6 +43,8 @@ Modify the code to have the following features.
   - Change the user input prompts to ask for the LMP.
   - Display the estimated gestational age in weeks.
   - Display the due date range using the 281 day offset and the 13 day standard deviation.
+  
+  ![Pregnancy Wheel App Screenshot](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module03/PregnancyWheelScreenShot.png?raw=true)
 
 ## Rubric
 
