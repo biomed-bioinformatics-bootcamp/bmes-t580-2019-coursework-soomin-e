@@ -21,6 +21,12 @@
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
   - Check-in your journal file.
+  
+  ![Journal Code 1](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module04/Journal%20Code%201.png?raw=true)
+  
+  ![Journal Code 2](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module04/Journal%20Code%202.png?raw=true)
+  
+ ![Working Code](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module04/WorkingCode.png?raw=true)
  
 ## Assignment (due 7/7/19)
 
