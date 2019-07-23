@@ -54,6 +54,7 @@ while True:
 with open(filename) as handle:
     reader = csv.DictReader(handle)
     pat_num = 0
+    viablePat = []
 
     #Examines each row
     for row in reader:
@@ -75,6 +76,7 @@ with open(filename) as handle:
                     if pat_therapy == therapy:
                         if pat_coinfection == coinfection:
                             pat_num += 1
+                            viablePat.append(row)
 
 # Prints the Results
 print('Based on the following criteria:')
@@ -85,3 +87,8 @@ print(' - On Therapy: %s' % therapy)
 print(' - Coinfection: %s' % coinfection)
 
 print('There are %i eligible patients' % pat_num)
+
+# Writing File
+with open('ViablePatents.txt', 'w') as f:
+    for item in viablePat:
+        f.write("%s\n" % item)
