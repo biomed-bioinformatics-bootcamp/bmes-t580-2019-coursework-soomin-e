@@ -18,6 +18,15 @@
 1. Complete the [Weather Client](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/05_weather_client) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+  
+  Code
+  
+  ![](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/Code1.png?raw=true)
+  ![](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/Code2.png?raw=true)
+  
+  Working Code
+  
+  ![](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/AppinProgress.png?raw=true)
  
 ## Assignment (due 7/10/19)
 
@@ -32,6 +41,17 @@ Write a program that has the following features.
 5. The program counts the number of patients based on the inclusion/exclusion criteria. 
 6. Print the total count of patients that match the criteria.
 7. Outputs a new file that contains only the record of patients that match the criteria.
+
+Code
+
+![](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/DemographicsCode1.png?raw=true)
+![](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/DemographicsCode2.png?raw=true)
+![](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/DemographicsCode3.png?raw=true)
+![]https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/DemographicsCode4.png?raw=true)
+
+Working Code
+
+![](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module05/DemographicsCodeWorking.png?raw=true)
 
 
 ## Rubric
