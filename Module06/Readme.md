@@ -34,7 +34,8 @@ Write a program that has the following features.
 5. It writes the *translated* amino acid sequences to the file. 
 6. It prints summary information about how many sequences it processed and how many ORFs it found.
 
-
+![Seq Parse Code](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module06/FileParseCode.png?raw=true)
+![Seq Parse In Progress](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module06/FileParseInProgress.png?raw=true)
 
 ## Rubric
 
