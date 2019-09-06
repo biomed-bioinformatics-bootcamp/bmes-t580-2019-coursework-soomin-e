@@ -17,6 +17,10 @@
 1. Complete the [Wizard Battle](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/07_wizard_battle) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+  
+  ![WorkingCode1](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module06/WorkingCode1.png?raw=true}
+  ![WorkingCode2](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module06/WorkingCode2.png?raw=true)
+  ![Code](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module06/CodeInProgress.png?raw=true)
  
 ## Assignment (due 7/14/19)
 
@@ -29,6 +33,8 @@ Write a program that has the following features.
 4. It checks both strands for ORFs.
 5. It writes the *translated* amino acid sequences to the file. 
 6. It prints summary information about how many sequences it processed and how many ORFs it found.
+
+
 
 ## Rubric
 
