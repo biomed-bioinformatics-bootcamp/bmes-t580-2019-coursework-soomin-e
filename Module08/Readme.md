@@ -18,6 +18,10 @@
 1. Complete the [File Searcher](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/08_file_searcher) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+  
+  ![Code1](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module08/File_search_code1.png?raw=true)
+  ![Code2](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module08/File_search_code2.png?raw=true)
+  ![InProgress](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module08/File_search_Working.png?raw=true)
  
 ## Assignment (due 7/21/19)
 
@@ -37,6 +41,8 @@ Make a Jupyter Notebook that has the following features.
 2. Implement the relevant functions, for-loops, and program logic in the Jupyter Notebook as distinct cells.
 3. Use Markdown cells to describe the algorithm and the results.
 4. Export the Notebook as a PDF and upload it to BBLearn.
+
+
 
 
 ## Rubric
