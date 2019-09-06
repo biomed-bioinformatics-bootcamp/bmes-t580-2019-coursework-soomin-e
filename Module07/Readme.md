@@ -12,6 +12,10 @@
 1. Complete the [LOLCat Factory](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/06_lolcat_factory) assignment from PJS.
   - Check-in and Push the changes to your local repository
   - Check-in and Push a screenshot of you running the code
+  
+  ![Code1](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module07/LolCatCode1.png?raw=true)
+  ![Code2](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module07/LolCatCode2.png?raw=true)
+  ![InProgress](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module07/LolCatInProgress.png?raw=true)
  
 ## Assignment (due 7/17/19)
 
@@ -36,7 +40,8 @@ Brain,neuron histology
 Kidney,nephron histology
 ...
 ```
-
+![Code](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module07/HIstologyCode.png?raw=true)
+![InProgress](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-soomin-e/blob/master/Module07/HistologyInProgress.png?raw=true)
 
 
 ## Rubric
